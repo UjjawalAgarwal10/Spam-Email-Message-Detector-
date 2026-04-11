@@ -14,7 +14,10 @@ df = pd.read_csv('spam.tsv', sep = "\t")
 hamDf = df[df['label'] == "ham"]
 spamDf = df[df['label'] == "spam"]
 
-hamDf = hamDf.sample(spamDf.shape[0])
+min_count = min(len(hamDf), len(spamDf))
+hamDf = hamDf.sample(min_count, random_state=0)
+spamDf = spamDf.sample(min_count, random_state=0)
+
 
 finalDf = pd.concat([hamDf,spamDf], ignore_index = True)
 
@@ -31,7 +34,6 @@ Y_predict = model.predict(X_test)
 print(confusion_matrix(Y_test,Y_predict))
 print(classification_report(Y_test,Y_predict))
 print(accuracy_score(Y_test, Y_predict))
-
-print(model.predict([]))
+print(model.predict(["Congratulations! You won a lottery"]))
 
   
