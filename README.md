@@ -25,6 +25,7 @@
 
 
 
+
 🛠️**Programming Language: Python**
 
 Libraries Used:
@@ -52,3 +53,12 @@ Install required libraries:
 
 - Run the Python script:
   - python spam_detector.py
+
+
+
+📈**Output Metrics:-**
+
+- The model evaluates performance using:
+  - Accuracy Score
+  - Classification Report
+  - Confusion Matrix
