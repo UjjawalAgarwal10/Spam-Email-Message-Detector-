@@ -45,5 +45,10 @@ git clone https://github.com/UjjawalAgarwal10/spam-message-detection.git
 cd spam-message-detection
 
 Install required libraries:
+- pip install numpy pandas matplotlib scikit-learn joblib
 
-pip install numpy pandas matplotlib scikit-learn joblib
+
+▶️**How to run the Project:-**
+
+- Run the Python script:
+  - python spam_detector.py
