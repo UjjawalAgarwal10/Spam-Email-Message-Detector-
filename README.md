@@ -79,4 +79,4 @@ Install required libraries:
 
 
 👨‍💻**Author-**
-- Ujjawal Agarwal
+-  Ujjawal Agarwal Student | Python Developer | AI Enthusiast**
