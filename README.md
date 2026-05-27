@@ -10,6 +10,19 @@
   - Model training using SVM
   - Performance evaluation
 
+
+📊**Features Implemented**
+
+- ✔ Data preprocessing
+- ✔ Balanced dataset creation
+- ✔ Train-test splitting
+- ✔ Text vectorization using TF-IDF
+- ✔ Spam classification using SVM
+- ✔ Accuracy evaluation
+- ✔ Confusion matrix generation
+- ✔ Custom message prediction
+
+
 🛠️**Programming Language: Python**
 
 Libraries Used:
