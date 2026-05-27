@@ -10,10 +10,12 @@
   - Model training using SVM
   - Performance evaluation
 
-🛠️**Programming Language:Python**
-   **Libraries Used**
-     - NumPy
-     - Pandas
-     - Scikit-learn
-     - Matplotlib
-     - Joblib
+🛠️**Programming Language: Python**
+
+Libraries Used:
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn 
+- Joblib
+
