@@ -62,3 +62,13 @@ Install required libraries:
   - Accuracy Score
   - Classification Report
   - Confusion Matrix
+
+
+
+
+🔮**Future Enhancements:-**
+- Build a Flask/Streamlit web application
+- Add GUI support using Tkinter
+- Deploy model online
+- Use Deep Learning models (LSTM/BERT)
+- Improve accuracy with hyperparameter tuning
