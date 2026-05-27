@@ -72,3 +72,11 @@ Install required libraries:
 - Deploy model online
 - Use Deep Learning models (LSTM/BERT)
 - Improve accuracy with hyperparameter tuning
+
+
+📜**License:-**
+- This project is licensed under the MIT License.
+
+
+👨‍💻**Author-**
+- Ujjawal Agarwal
