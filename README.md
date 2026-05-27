@@ -9,3 +9,11 @@
   - TF-IDF feature extraction
   - Model training using SVM
   - Performance evaluation
+
+🛠️**Programming Language:Python**
+   **Libraries Used**
+     - NumPy
+     - Pandas
+     - Scikit-learn
+     - Matplotlib
+     - Joblib
