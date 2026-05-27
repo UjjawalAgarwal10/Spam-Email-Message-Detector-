@@ -75,7 +75,7 @@ Install required libraries:
 
 
 📜**License:-**
-- This project is licensed under the MIT License.
+- This project is for educational purposes only.
 
 
 👨‍💻**Author-**
